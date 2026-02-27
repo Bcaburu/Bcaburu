@@ -7,27 +7,7 @@ Throughout my career I have worked in digital agencies and large e-commerce comp
 
 My professional experience combines marketing analytics and business intelligence. I work with KPI definition, user funnel analysis, conversion rate optimization (CRO), acquisition channel performance, and integration between business stakeholders and technical teams.
 
----
-
-## What I Work With
-
-### Analytics & Tracking
-- Google Analytics 4 (GA4)
-- Google Tag Manager (GTM)
-- Event tracking and tagging implementation
-- User journey and funnel analysis
-- Conversion Rate Optimization (CRO)
-
-### Data & Business Intelligence
-- Power BI dashboards and data modeling
-- Looker Studio reporting
-- SQL and BigQuery querying
-- KPI definition and performance analysis
-- Business data interpretation and storytelling
-
-### Marketing & Product Analytics
-- Acquisition channel performance analysis
-- E-commerce analytics and insights generation
+Tools: Google Analytics 4 (GA4), Google Tag Manager (GTM), Looker Studio, Power BI, BigQuery, Databricks, Hotjar, Insider, Meta Ads, Google Ads, VTEX.
 
 ---
 
