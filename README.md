@@ -9,8 +9,6 @@ My professional experience combines marketing analytics and business intelligenc
 
 Tools: Google Analytics 4 (GA4), Google Tag Manager (GTM), Looker Studio, Power BI, BigQuery, Databricks, Hotjar, Insider, Meta Ads, Google Ads, VTEX.
 
----
-
 ## Featured Project
 **Sales Performance Analysis (Power BI Dashboard)**  
 An end-to-end business intelligence project identifying profitability drivers, inefficient markets, and product mix issues using a star schema model and DAX measures.
