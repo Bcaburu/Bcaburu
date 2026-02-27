@@ -15,7 +15,3 @@ An end-to-end business intelligence project identifying profitability drivers, i
 
 Check it here:  
 [Sales Performance Repository](https://github.com/Bcaburu/sales-performance-powerbi-dashboard)
-
----
-
-Feel free to explore my projects and follow my journey!
